@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+    <body>
+    <h1> Please enter search keyword</h1>
+    <ul id = "keyword">
+
+    </ul>
+
+        <form>
+            Keyword:<br>
+            <input type="text" name="keyword"><br>
+            <button onclick="callREST()">Search</button>
+        </form>
+        <div id="response"></div>
+
+        <script>
+
+                function callREST() {
+                    fetch('http://localhost:9091/web-back-end/files/getPaths?keyword=Image')
+      .then(response => response.json())
+      .then(json => {
+        var radr = JSON.stringify(json)
+        document.getElementById('response').innerHTML = radr;
+      });
+                }
+        </script>
+    </body>
+</html>

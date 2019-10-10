@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e3c9e67-3af2-48bb-bae6-4c2a401473a6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PVk2pJjtpsfe3T9FJ9woUrtR8J" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="savefilesystemandformvalidation" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.58698225" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.netpay.SaveFileSystem.FormValidation.backend.service" />
+      <recent name="com.netpay.SaveFileSystem.backend.Service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vishal\Downloads\eem-nextgen-web-backend\SaveFileSystemAndFormValidation\src\main\resources\MATA-INF" />
+      <recent name="C:\Users\Vishal\Downloads\eem-nextgen-web-backend\SaveFileSystemAndFormValidation\src\main\resources" />
+      <recent name="C:\Users\Vishal\Downloads\eem-nextgen-web-backend\SaveFileSystemAndFormValidation\src\main\java" />
+      <recent name="C:\Users\Vishal\Downloads\eem-nextgen-web-backend\SaveFileSystemAndFormValidation\src\main\resources\Meta-Inf" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vishal\Downloads\eem-nextgen-web-backend\SaveFileSystemAndFormValidation" />
+      <recent name="C:\Users\Vishal\Downloads\eem-nextgen-web-backend\SaveFileSystemAndFormValidation\src\main\resources" />
+      <recent name="C:\Users\Vishal\Downloads\eem-nextgen-web-backend\SaveFileSystemAndFormValidation\src\main\java\com\netpay\SaveFileSystem\backend" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WebBackEndApplication (1)">
+    <configuration name="WebBackEndApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.netpay.SaveFileSystem.FormValidation.backend.boot.WebBackEndApplication" />
+      <module name="SaveFileSystemAndFormValidation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netpay.SaveFileSystem.FormValidation.backend.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebBackEndApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.netpay.SaveFileSystem.backend.boot.WebBackEndApplication" />
+      <module name="SaveFileSystemAndFormValidation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netpay.SaveFileSystem.backend.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageContactsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SaveFileSystemAndFormValidation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netpay.SaveFileSystem.FormValidation.backend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.netpay.SaveFileSystem.FormValidation.backend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.netpay.SaveFileSystem.FormValidation.backend.service.ManageContactsServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageContactsServiceTest.testRemoveContactSuccessCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SaveFileSystemAndFormValidation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netpay.SaveFileSystem.FormValidation.backend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.netpay.SaveFileSystem.FormValidation.backend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.netpay.SaveFileSystem.FormValidation.backend.service.ManageContactsServiceTest" />
+      <option name="METHOD_NAME" value="testRemoveContactSuccessCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageFileSystemTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SaveFileSystemAndFormValidation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netpay.SaveFileSystem.FormValidation.backend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.netpay.SaveFileSystem.FormValidation.backend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.netpay.SaveFileSystem.FormValidation.backend.service.ManageFileSystemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebBackEndApplication (1)" />
+        <item itemvalue="JUnit.ManageContactsServiceTest" />
+        <item itemvalue="JUnit.ManageContactsServiceTest.testRemoveContactSuccessCase" />
+        <item itemvalue="JUnit.ManageFileSystemTest (1)" />
+        <item itemvalue="Application.WebBackEndApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e3c9e67-3af2-48bb-bae6-4c2a401473a6" name="Default Changelist" comment="" />
+      <created>1565966446780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565966446780</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/netpay/SaveFileSystem/FormValidation/backend/service/ManageFileSystemTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/netpay/SaveFileSystem/FormValidation/backend/exception/CustomValidator.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/netpay/SaveFileSystem/FormValidation/backend/service/ManageContactsServiceTest.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
